@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\bin\Debug\net6.0\Escolha.exe
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\bin\Debug\net6.0\Escolha.deps.json
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\bin\Debug\net6.0\Escolha.runtimeconfig.json
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\bin\Debug\net6.0\Escolha.dll
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\bin\Debug\net6.0\Escolha.pdb
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.AssemblyInfo.cs
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.dll
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\refint\Escolha.dll
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.pdb
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\Escolha.genruntimeconfig.cache
+C:\Users\augus\Desktop\Logica\Condicionais\Escolha\obj\Debug\net6.0\ref\Escolha.dll

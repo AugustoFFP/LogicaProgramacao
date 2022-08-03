@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\bin\Debug\net6.0\Exerc016.exe
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\bin\Debug\net6.0\Exerc016.deps.json
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\bin\Debug\net6.0\Exerc016.runtimeconfig.json
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\bin\Debug\net6.0\Exerc016.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\bin\Debug\net6.0\Exerc016.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.AssemblyInfo.cs
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\refint\Exerc016.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\Exerc016.genruntimeconfig.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Exerc016\obj\Debug\net6.0\ref\Exerc016.dll

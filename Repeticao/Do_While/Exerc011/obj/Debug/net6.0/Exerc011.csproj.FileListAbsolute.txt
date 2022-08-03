@@ -1,0 +1,20 @@
+C:\Users\augus\Desktop\Nova pasta\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\Nova pasta\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\Nova pasta\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\Nova pasta\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.AssemblyInfo.cs
+C:\Users\augus\Desktop\Nova pasta\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\bin\Debug\net6.0\Exerc011.exe
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\bin\Debug\net6.0\Exerc011.deps.json
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\bin\Debug\net6.0\Exerc011.runtimeconfig.json
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\bin\Debug\net6.0\Exerc011.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\bin\Debug\net6.0\Exerc011.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.AssemblyInfo.cs
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\refint\Exerc011.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\Exerc011.genruntimeconfig.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\Exerc011\obj\Debug\net6.0\ref\Exerc011.dll

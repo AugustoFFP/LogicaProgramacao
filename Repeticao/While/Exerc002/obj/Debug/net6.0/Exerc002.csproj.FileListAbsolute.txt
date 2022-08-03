@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\bin\Debug\net6.0\Exerc002.exe
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\bin\Debug\net6.0\Exerc002.deps.json
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\bin\Debug\net6.0\Exerc002.runtimeconfig.json
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\bin\Debug\net6.0\Exerc002.dll
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\bin\Debug\net6.0\Exerc002.pdb
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.AssemblyInfo.cs
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.dll
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\refint\Exerc002.dll
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.pdb
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\Exerc002.genruntimeconfig.cache
+C:\Users\augus\Desktop\Logica\Repeticao\Exerc002\obj\Debug\net6.0\ref\Exerc002.dll

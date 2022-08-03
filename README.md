@@ -1,11 +1,12 @@
 # Lógica de Programação
 
-## Condições
+# Condições
   - IF aninhado
   - Switch escolha
 
-## Repetições
-  
+# Repetições
+ 
+ ## While
   - Realizando cálculos em laços
     - Exercícios 1 - 2 
   
@@ -27,3 +28,9 @@
   - ESPECIAL 
     - Exercícios 10
    
+ ## Do While
+    - Exercícios 11 - 13
+
+ ## FOR
+    - Exercícios 14 - 20
+ 

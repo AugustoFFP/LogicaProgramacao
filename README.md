@@ -29,8 +29,10 @@
     - Exercícios 10
    
  ## Do While
+  - Repetição com teste no final
     - Exercícios 11 - 13
-
+     
  ## FOR
+  - Repetição com variável de controle  
     - Exercícios 14 - 20
  

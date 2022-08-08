@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\bin\Debug\net6.0\Exerc021.exe
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\bin\Debug\net6.0\Exerc021.deps.json
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\bin\Debug\net6.0\Exerc021.runtimeconfig.json
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\bin\Debug\net6.0\Exerc021.dll
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\bin\Debug\net6.0\Exerc021.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.AssemblyInfo.cs
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.dll
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\refint\Exerc021.dll
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\Exerc021.genruntimeconfig.cache
+C:\Users\augus\Desktop\LogicaProgramacao\ValidandoDados\Exerc021\obj\Debug\net6.0\ref\Exerc021.dll

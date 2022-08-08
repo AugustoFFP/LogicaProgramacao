@@ -15,19 +15,13 @@ class program
         Console.WriteLine("De quantos em quantos você quer pular?");
         int pular = int.Parse(Console.ReadLine());
 
-        int soma = 0;
+
+        Console.WriteLine($"Contar do número {numeroInicial} até {numeroFinal} pulando de {pular} em {pular}.");
 
         for (int contador = numeroInicial; contador <= numeroFinal; contador = contador + pular )
         {
-
-            if (contador == numeroInicial)
-            {
-                Console.WriteLine($"Contar do número {numeroInicial} até {numeroFinal} pulando de {pular} em {pular}.");
-            }
-
             Console.WriteLine(" ");
             Console.WriteLine(contador);
-
         }
     }
 }

@@ -16,18 +16,11 @@ class program
         for (int contador = 1; contador <= numero; contador++)
         {
 
-            if (contador > 2)
-            {
-                Console.Write($"{contador} - ");
-            }
-
-
             if (numero % contador == 0)
             {
                 Console.Write($"[{contador}] - ");
                 soma++;
             }
-
 
         }
         if (soma <= 2)

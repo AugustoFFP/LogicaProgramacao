@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\bin\Debug\net6.0\Exerc020.exe
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\bin\Debug\net6.0\Exerc020.deps.json
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\bin\Debug\net6.0\Exerc020.runtimeconfig.json
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\bin\Debug\net6.0\Exerc020.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\bin\Debug\net6.0\Exerc020.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.AssemblyInfo.cs
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\refint\Exerc020.dll
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.pdb
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\Exerc020.genruntimeconfig.cache
+C:\Users\augus\Desktop\LogicaProgramacao\Repeticao\For\For_Aninhado\Exerc020\obj\Debug\net6.0\ref\Exerc020.dll
